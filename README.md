@@ -1,4 +1,6 @@
 # Interactive-Machine-Learning-Classifier-Comparison-Web-Application-Using-Streamlit
+![ml_photo](https://github.com/Abdalrahmanhassan237/Interactive-Machine-Learning-Classifier-Comparison-Web-Application-Using-Streamlit/assets/158060043/66542ca3-8dc0-4eca-97a9-c73b2610d9c3)
+
 Streamlit application that allows you to explore different machine learning classifiers and compare their performance on different datasets. Let's go through the code step by step:
 
 1. The necessary libraries are imported, including Streamlit for creating the web interface, as well as various machine learning libraries such as NumPy, Matplotlib, pandas, and scikit-learn.
